@@ -116,7 +116,7 @@ Everything is containerized for portability, and tested using both manual calls 
 
 ---
 
-**Submitted by:** _22i-0561 Hassan Ali Shoro, 22i-0585 Ibaad Ahmed Chaudry, 22i-2142 Abdullah Kaif_
+**Submitted by:** _22i-0561 Hassan Ali Shoro, 22i-0585 Ibaad Ahmed Chaudhry, 22i-2142 Abdullah Kaif_
 
 **Course:** End of Semester NLP Project
 
