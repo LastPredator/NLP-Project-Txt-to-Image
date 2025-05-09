@@ -90,6 +90,15 @@ If you want to test the gRPC service directly:
 
 ---
 
+
+## Concurrent Users
+
+
+![image](https://github.com/user-attachments/assets/34e4501f-521c-42b2-8326-88b94a915981)
+
+
+
+
 ## 📚 Model Details
 
 - **Stable Diffusion 3.5 (Large)** used via HuggingFace Diffusers for high-quality text-to-image.
