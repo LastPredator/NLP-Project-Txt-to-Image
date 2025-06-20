@@ -1,4 +1,4 @@
-#Project - AI Image & Video Generation System
+# Project - AI Image & Video Generation System
 
 This project demonstrates an end-to-end system for generating both images and videos using text prompts. It uses gRPC for communication between frontend and backend, and supports real-time interaction through a web interface made with Streamlit.
 
