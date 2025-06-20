@@ -1,4 +1,4 @@
-# End of Semester Project - AI Image & Video Generation System
+#Project - AI Image & Video Generation System
 
 This project demonstrates an end-to-end system for generating both images and videos using text prompts. It uses gRPC for communication between frontend and backend, and supports real-time interaction through a web interface made with Streamlit.
 
@@ -116,17 +116,8 @@ If you want to test the gRPC service directly:
 
 ---
 
-## 📬 Notes To Instructor
-
-I’ve tried to keep the code clean and modular. The `backend` is separated for inference so it could be scaled independently later. The `frontend` uses Streamlit to reduce overhead and quickly show results in a usable UI.
-
-Everything is containerized for portability, and tested using both manual calls (Postman) and UI interface.
 
 
 ---
-
-**Submitted by:** _22i-0561 Hassan Ali Shoro, 22i-0585 Ibaad Ahmed Chaudhry, 22i-2142 Abdullah Kaif_
-
-**Course:** End of Semester NLP Project
 
 **Tools:** Python, Docker, gRPC, HuggingFace, Streamlit, Postman
